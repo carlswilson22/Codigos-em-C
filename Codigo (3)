@@ -3,7 +3,7 @@
 int main() {
     float salario_atual, percentual_aumento, novo_salario, aumento;
 
-    // Entrada do sal·rio atual
+    // Entrada do sal√°rio atual
     printf("Digite o salario atual: ");
     scanf("%f", &salario_atual);
 
@@ -14,7 +14,7 @@ int main() {
     // Calcula o valor do aumento
     aumento = salario_atual * (percentual_aumento / 100);
 
-    // Calcula o novo sal·rio
+    // Calcula o novo sal√°rio
     novo_salario = salario_atual + aumento;
 
     // Exibe os resultados
